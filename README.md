@@ -1,6 +1,6 @@
 # Usage:
 
-`python3 smsbomb.py`
+`python3 NoonAcademy-OTP.py`
 
 # Requirements:
 
