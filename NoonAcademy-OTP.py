@@ -110,6 +110,7 @@ print('[5] India')
 print('[6] Iraq')
 print('[7] Pakistan')
 print('[8] Oman')
+print('[9] nigeria')
 print()
 selectedCountry = int(input("[+] Enter Your Country Number : "))
 if selectedCountry > 0 and selectedCountry < 8:
@@ -151,6 +152,10 @@ if selectedCountry==8:
     Country = '3'
     CountryCode = '+968'
     print("Your Country : Oman")
+if selectedCountry==9:
+    Country='2'
+    CountryCode ='+234'
+    print("your country nigeria")
 
 print()
 print('[1] SMS ')
